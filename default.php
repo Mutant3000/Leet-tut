@@ -4,12 +4,12 @@
 <style>
 ul {
     list-style-type: none;   
-Body {
-Margin: 0px;
-}
-    padding: 0;
+    }
+body {
+    margin: 0px;
     overflow: hidden;
     background-color: 	#0e7248;
+    }
 
 li {
     float: left;
@@ -47,7 +47,9 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color:rgb(42, 163, 48)}
+.dropdown-content a:hover {
+    background-color:rgb(42, 163, 48)
+    }
 
 .dropdown:hover .dropdown-content {
     display: block;
